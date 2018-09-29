@@ -1,3 +1,4 @@
+# This is undone. See [pietra](https://github.com/hfu/pietra)
 # piccola
 A minimalist ArcGIS Server Web Service server for Vector Tiles
 
